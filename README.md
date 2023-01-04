@@ -15,7 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasuhyc&show_icons=true&locale=en" alt="nasuhyc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceydowski&" alt="nasuhyc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasuhyc&" alt="nasuhyc" /></p>
 
 <!--
 **nasuhyc/nasuhyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
