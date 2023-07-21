@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Nasuh YÜCEL</h1>
-<h3 align="center">I'm Full Stack Developer from Turkiye</h3>
+<h3 align="center">I'm Software Engineer from Turkiye</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasuhyc" alt="nasuhyc" /></a> </p>
 <h3 align="left">Connect with me:</h3>
