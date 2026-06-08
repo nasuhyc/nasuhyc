@@ -64,19 +64,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Contributions
 
 <p align="center">
-  <!-- Top Languages (Alternatif Güvenilir Sunucu) -->
-  <img align="center" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=nasuhyc&show_icons=true&locale=en&layout=compact&theme=visual_studio_code" alt="nasuhyc top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasuhyc&theme=zenburn" alt="Nasuh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Genel İstatistikler (Alternatif Güvenilir Sunucu) -->
-  <img align="center" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nasuhyc&show_icons=true&locale=en&theme=visual_studio_code" alt="nasuhyc stats" />
-</p>
-
-<p align="center">
-  <!-- Çalışan Güncel Streak Stats -->
-  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=nasuhyc&theme=visual_studio_code" alt="nasuhyc streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasuhyc&theme=zenburn" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasuhyc&theme=zenburn" alt="Stats" />
 </p>
